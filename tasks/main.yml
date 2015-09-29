@@ -1,6 +1,6 @@
 ---
 
-- name: download Tomcat
+- name: download Tomcat 7
   local_action: >
     get_url
       url="{{tomcat_download_url}}"
