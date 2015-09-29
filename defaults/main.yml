@@ -30,7 +30,7 @@ tomcat_ajp_port: 8009
 
 tomcat_redirect_port: 8443
 
-#in milisseconds
+#in miliseconds
 tomcat_connection_timeout: 20000
 
 tomcat_users: [
